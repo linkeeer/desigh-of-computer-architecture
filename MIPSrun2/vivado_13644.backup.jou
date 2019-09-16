@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri May  3 21:37:11 2019
+# Process ID: 13644
+# Current directory: C:/Users/15014/Pictures/素材/背景/Desktop/160400509张锐/计算机体系结构实验/MIPSrun2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12080 C:\Users\15014\Pictures\素材\背景\Desktop\160400509张锐\计算机体系结构实验\MIPSrun2\MIPSrun2.xpr
+# Log file: C:/Users/15014/Pictures/素材/背景/Desktop/160400509张锐/计算机体系结构实验/MIPSrun2/vivado.log
+# Journal file: C:/Users/15014/Pictures/素材/背景/Desktop/160400509张锐/计算机体系结构实验/MIPSrun2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/15014/Pictures/素材/背景/Desktop/160400509张锐/计算机体系结构实验/MIPSrun2/MIPSrun2.xpr

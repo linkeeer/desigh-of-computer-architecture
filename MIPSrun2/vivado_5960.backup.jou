@@ -1,0 +1,89 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue Apr 23 15:49:28 2019
+# Process ID: 5960
+# Current directory: D:/Temp/MIPSrun2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8156 D:\Temp\MIPSrun2\MIPSrun2.xpr
+# Log file: D:/Temp/MIPSrun2/vivado.log
+# Journal file: D:/Temp/MIPSrun2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Temp/MIPSrun2/MIPSrun2.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config D:/Temp/MIPS/cputest_behav.wcfg
+source cputest.tcl
+restart
+run all
+close_sim
+launch_simulation
+open_wave_config D:/Temp/MIPS/cputest_behav.wcfg
+source cputest.tcl
+close_sim
+launch_simulation
+launch_simulation
+launch_simulation
+open_wave_config D:/Temp/MIPS/cputest_behav.wcfg
+source cputest.tcl
+restart
+run all
+close_sim
+launch_simulation
+launch_simulation
+launch_simulation
+open_wave_config D:/Temp/MIPS/cputest_behav.wcfg
+source cputest.tcl
+close_sim
+launch_simulation
+open_wave_config D:/Temp/MIPS/cputest_behav.wcfg
+source cputest.tcl
+close_sim
+launch_simulation
+open_wave_config D:/Temp/MIPS/cputest_behav.wcfg
+source cputest.tcl
+close_sim
+launch_simulation
+open_wave_config D:/Temp/MIPS/cputest_behav.wcfg
+source cputest.tcl
+close_sim
+launch_simulation
+open_wave_config D:/Temp/MIPS/cputest_behav.wcfg
+source cputest.tcl
+close_sim
+launch_simulation
+open_wave_config D:/Temp/MIPS/cputest_behav.wcfg
+source cputest.tcl
+close_sim
+launch_simulation
+open_wave_config D:/Temp/MIPS/cputest_behav.wcfg
+source cputest.tcl
+close_sim
+launch_simulation
+open_wave_config D:/Temp/MIPS/cputest_behav.wcfg
+source cputest.tcl
+close_sim
+launch_simulation
+open_wave_config D:/Temp/MIPS/cputest_behav.wcfg
+source cputest.tcl
+close_sim
+launch_simulation
+open_wave_config D:/Temp/MIPS/cputest_behav.wcfg
+source cputest.tcl
+restart
+run all
+restart
+run all
+restart
+run all
+restart
+run all
+restart
+run all
+restart
+run all
+restart
+run all
+synth_design -rtl -name rtl_1
+close_sim
